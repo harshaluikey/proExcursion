@@ -1,1 +1,4 @@
 # Project Title - EXCURSION
+## TECHNOLOGIES USED:
++ HTML
++ CSS
